@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de prueb del modulo 2 del PrepCourse de Henry
+Paulina Lopez
+Este es una prueba de como crear un repositorio y clonarlo en un directorio local
+
